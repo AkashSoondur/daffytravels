@@ -1,0 +1,90 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Australia",
+        "cities": [
+          {
+            "name": "Sydney, Australia",
+            "imageUrl": "./sydney.jpg",
+            "description": "A dazzling, vibrant city that pulses with energy, home to world-renowned landmarks like the majestic Sydney Opera House and the iconic Sydney Harbour Bridge, each standing as a testament to architectural brilliance and the city's rich cultural tapestry.",
+            "timeZone": "Australia/Sydney"
+          },
+          {
+            "name": "Melbourne, Australia",
+            "imageUrl": "./melbourne.jpeg",
+            "description": "A dynamic cultural haven, renowned for its vibrant art scene, mouthwatering cuisine, and eclectic neighborhoods that blend tradition with innovation, making it a true melting pot of creativity and flavor.",
+            "timeZone": "Australia/Melbourne"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "cities": [
+          {
+            "name": "Tokyo, Japan",
+            "imageUrl": "./tokyo.jpeg",
+            "description": "A vibrant, bustling metropolis where ancient traditions seamlessly merge with cutting-edge modernity, celebrated for its breathtaking cherry blossoms and a deep, rich culture that captivates the soul at every turn.",
+            "timeZone": "Asia/Tokyo"
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "./kyoto.jpeg",
+            "description": "Renowned for its timeless historic temples, serene gardens, and charming traditional tea houses, where every corner whispers tales of a rich, enduring heritage and tranquil beauty.",
+            "timeZone": "Asia/Tokyo"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brazil",
+        "cities": [
+          {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "./riodejaneiro.jpeg",
+            "description": "A lively, sun-kissed city brimming with energy, famous for its breathtaking beaches, electrifying carnival celebrations, and iconic landmarks that pulse with history and culture at every corner.",
+            "timeZone": "America/Sao_Paulo"
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "./saopaulo.jpeg",
+            "description": "The thriving financial epicenter, where a dynamic blend of diverse cultures, captivating arts, and an electrifying nightlife come together, creating an unforgettable fusion of ambition and celebration.",
+            "timeZone": "America/Sao_Paulo"
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Angkor Wat, Cambodia",
+        "imageUrl": "./angkorwat.jpeg",
+        "description": "A revered UNESCO World Heritage site, home to the largest religious monument on Earth, where awe-inspiring grandeur and spiritual significance converge to create a breathtaking testament to human history and devotion.",
+        "timeZone": "Asia/Phnom_Penh"
+      },
+      {
+        "id": 2,
+        "name": "Taj Mahal, India",
+        "imageUrl": "./tajmahal.jpeg",
+        "description": "An eternal symbol of love, this breathtaking masterpiece of Mughal architecture stands as a testament to timeless beauty, with its intricate design and mesmerizing allure capturing hearts around the world.",
+        "timeZone": "Asia/Kolkata"
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bora Bora, French Polynesia",
+        "imageUrl": "./borabora.jpg",
+        "description": "A tropical paradise, this enchanting island is famous for its crystal-clear turquoise waters and exclusive overwater bungalows, offering a haven of luxury and tranquility that feels like a dream come to life.",
+        "timeZone": "Pacific/Tahiti"
+      },
+      {
+        "id": 2,
+        "name": "Copacabana Beach, Brazil",
+        "imageUrl": "./copacabana.webp",
+        "description": "An iconic stretch of golden sand in Rio de Janeiro, Brazil, this famous beach pulses with vibrant energy, where the rhythmic sound of the waves meets breathtaking scenic views, creating a lively paradise that beckons visitors from around the globe.",
+        "timeZone": "America/Sao_Paulo"
+      }
+    ]
+  }
